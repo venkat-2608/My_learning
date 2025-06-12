@@ -36,7 +36,7 @@ This project is sufficient to demonstrate everything taught in Day 8, including 
 
 ### 🔗 Links
 
-- [Solution Code](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day8)
+- [Solution Code](./day06.py)
 - [Original Course](https://www.udemy.com/course/100-days-of-code/)
 
 ---

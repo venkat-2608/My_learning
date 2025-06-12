@@ -36,7 +36,7 @@ This project is sufficient to demonstrate all concepts, exercises, and tutorials
 
 ### 🔗 Links
 
-- [Solution Code](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day7)
+- [Solution Code](./day06.py)
 - [Original Course](https://www.udemy.com/course/100-days-of-code/)
 
 ---

@@ -1,35 +1,68 @@
-## Day 10 Project: Text-Based Calculator
+## 🧮 Day 10 Project: Text-Based Calculator
 
-## Table of contents
+### 📄 Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
+  - [Why This Project Matters](#why-this-project-matters)
   - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
 - [Notes](#notes)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 
-## Overview
+---
 
-### The challenge
+## 🔍 Overview
 
-- Build a simple text-based calculator. 
+### 🎯 The Challenge
 
-### Links
+Build a text-based calculator that:
+- Accepts user input for numbers and operations
+- Uses defined functions for mathematical operations
+- Allows continuous calculations using previous results
+- Restarts from the beginning based on user choice
 
-- Solution URL: [Text-Based Calculator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day10)
+---
 
-## Notes
+### ✅ Why This Project Matters
 
-- Tools
-  - [Title Case](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)
+This project covers all the Day 10 topics taught in **Angela Yu’s 100 Days of Code: Python Bootcamp** and is sufficient to demonstrate everything covered, including exercises and tutorials. It solidifies understanding of:
+- Functions with outputs
+- Looping structures and recursion
+- Returning values instead of printing directly
+- Function dictionaries for dynamic behavior
 
-### Built with
+---
+
+### 🔗 Links
+
+- [Solution Code](./day06.py)
+- [Original Course](https://www.udemy.com/course/100-days-of-code/)
+
+---
+
+## ⚙️ My Process
+
+### 🧰 Built With
 
 - Python
 
-### What I learned
-- Functions with Outputs
-- Docstrings
-- Print vs Return
-- While Loops, Flags, and Recursion
+---
+
+### 🧠 What I Learned
+
+- How to define and return values from functions
+- The difference between `print()` and `return`
+- How to use a dictionary to call functions dynamically
+- Looping with `while` and restarting with recursion
+- How to manage state during repeated calculations
+
+---
+
+## 📝 Notes
+
+- This calculator is fully functional via the terminal.
+- It uses recursion and loop flags for clean user control.
+- Helpful reference used:  
+  - [Title Case in Python](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python)
