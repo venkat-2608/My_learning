@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -30,13 +29,6 @@ This project covers all the topics taught in **Day 5** of Angela Yu’s *100 Day
 - String manipulation
 
 The project is sufficient to demonstrate everything taught in Day 5, including all exercises and tutorials.
-
----
-
-### 🔗 Links
-
-- [Solution Code](./day05.py)
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
 
 ---
 

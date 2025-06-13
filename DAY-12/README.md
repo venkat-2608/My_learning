@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -28,12 +27,6 @@ This project covers all the **Day 12** topics and is sufficient to demonstrate e
 - Function arguments and returns
 - Game loops and conditional logic
 - Constants and cleaner code structure
-
----
-
-### 🔗 Links
-
-- 💡 [Solution URL]
 
 ---
 

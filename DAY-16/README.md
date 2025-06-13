@@ -5,8 +5,7 @@ This project covers all the Day 16 topics and is sufficient to demonstrate every
 ## Table of contents
 
 - [Overview](#overview)  
-  - [The challenge](#the-challenge)  
-  - [Links](#links)  
+  - [The challenge](#the-challenge)
 - [Notes](#notes)  
   - [Built with](#built-with)  
   - [What I learned](#what-i-learned)  
@@ -19,10 +18,6 @@ This project covers all the Day 16 topics and is sufficient to demonstrate every
 - Offer three drink options: espresso, latte, cappuccino.
 - Handle user input, calculate change, and check for sufficient resources.
 - Display messages based on payment and ingredient availability.
-
-### Links
-
-- Solution URL: [Coffee Machine in OOP]
 
 ## Notes
 

@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -31,13 +30,6 @@ This project covers all the topics taught in **Day 7** of Angela Yu’s *100 Day
 - ASCII art for user experience
 
 This project is sufficient to demonstrate all concepts, exercises, and tutorials taught in Day 7.
-
----
-
-### 🔗 Links
-
-- [Solution Code](./day06.py)
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
 
 ---
 

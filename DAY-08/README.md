@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -31,13 +30,6 @@ This project covers all the concepts taught in **Day 8** of Angela Yu’s *100 D
 - Reusability and user interaction with loops
 
 This project is sufficient to demonstrate everything taught in Day 8, including exercises and tutorials.
-
----
-
-### 🔗 Links
-
-- [Solution Code](./day06.py)
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
 
 ---
 

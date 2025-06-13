@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -29,13 +28,6 @@ This project fully demonstrates all the concepts covered on **Day 3** of Angela 
 - Understanding and applying indentation and code blocks
 
 It serves as a complete and interactive reflection of all Day 3 exercises and lessons.
-
----
-
-### 🔗 Links
-
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
-- [My Code](./day03.py)
 
 ---
 

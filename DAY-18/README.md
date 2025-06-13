@@ -6,7 +6,6 @@ This project covers all the Day 18 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)  
   - [The challenge](#the-challenge)  
-  - [Links](#links)  
 - [Notes](#notes)  
   - [Built with](#built-with)  
   - [What I learned](#what-i-learned)  
@@ -18,9 +17,6 @@ This project covers all the Day 18 topics and is sufficient to demonstrate every
 - Recreate a digital version of Damien Hirst’s dot paintings using Python's Turtle module.
 - Display rows and columns of colorful dots with random color selection.
 
-### Links
-
-- Solution URL: [Hirst Painting]
 
 ## Notes
 

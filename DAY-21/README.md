@@ -6,7 +6,6 @@ This project covers all the Day 21 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -22,9 +21,6 @@ This project covers all the Day 21 topics and is sufficient to demonstrate every
   - Detect collision with the wall and reset the game.
   - Detect collision with the tail (self-collision) and reset the game.
 
-### Links
-
-- 💻 [Solution Code]
 ## My Process
 
 ### Built With

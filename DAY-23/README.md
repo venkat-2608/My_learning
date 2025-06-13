@@ -6,7 +6,6 @@ This project covers all the Day 23 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -24,9 +23,6 @@ This project covers all the Day 23 topics and is sufficient to demonstrate every
   - Detect when the turtle reaches the finish line, then reset turtle and increase level
   - Implement a scoreboard that increases level count each time the turtle finishes a round
 
-### Links
-
-- 🟢 Solution URL: [Turtle Crossing Game]
 
 ## My Process
 

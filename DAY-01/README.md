@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -30,13 +29,6 @@ This project is sufficient to cover all the core concepts taught on **Day 1** of
 - String concatenation and formatting
 
 Together, these reflect all tutorials and exercises provided in Day 1, making this a complete hands-on summary.
-
----
-
-### 🔗 Links
-
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
-- [My Code](./day01.py)
 
 ---
 

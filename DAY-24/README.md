@@ -6,7 +6,6 @@ This project covers all the Day 24 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,10 +19,6 @@ This project covers all the Day 24 topics and is sufficient to demonstrate every
 - For each name in `invited_names.txt`:
   - Replace the `[name]` placeholder in the letter with the actual name.
   - Save the personalized letter in the folder `ReadyToSend/` with the filename format: `letter_for_<name>.txt`.
-
-### Links
-
-- ✅ Solution URL: [Mail Merge]
 
 ## My process
 

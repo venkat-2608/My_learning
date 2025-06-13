@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -31,14 +30,6 @@ This project covers all the topics taught in **Day 6** of Angela Yu’s *100 Day
 - Working with a visual Python simulation
 
 The project is sufficient to demonstrate everything taught in Day 6, including all exercises and tutorials.
-
----
-
-### 🔗 Links
-
-- [Solution Code](./day06.py)
-- [Reeborg’s World Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
 
 ---
 

@@ -6,7 +6,6 @@ This project covers all the Day 19 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -18,11 +17,6 @@ This project covers all the Day 19 topics and is sufficient to demonstrate every
 - Build two interactive projects using the Turtle module:
   1. **Turltle-move-controls**: Use arrow keys to draw on the screen, with added functionality to clear the screen and reset direction.
   2. **Turtle Race Game**: Simulate a race between colorful turtles where the user can place a bet and see which turtle wins.
-
-### Links
-
-- Solution URL: [Turltle-move-controls]]
-- Solution URL: [Turtle Race]
 
 ## My process
 

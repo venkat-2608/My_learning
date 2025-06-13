@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -29,13 +28,6 @@ This project covers all the topics taught in **Day 9** of Angela Yu’s *100 Day
 - Writing and calling functions
 - Conditional logic
 - Using `clear()` to simulate secrecy between users
-
----
-
-### 🔗 Links
-
-- [Solution Code](./day06.py)
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
 
 ---
 

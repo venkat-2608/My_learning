@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The Focus](#the-focus)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -28,12 +27,6 @@ Rather than building a full project, this day focuses on **learning how to fix c
 - ✅ Exercise 1: Debugging Odd or Even
 - ✅ Exercise 2: Debugging Leap Year
 - ✅ Exercise 3: Debugging FizzBuzz
-
----
-
-### 🔗 Links
-
-- 💡 [Solution URL]
 
 ---
 

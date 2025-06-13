@@ -6,7 +6,6 @@ This project covers all the Day 20 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,10 +19,6 @@ This project covers all the Day 20 topics and is sufficient to demonstrate every
   - Create the snake body
   - Move the snake forward automatically
   - Add keyboard controls for user interaction using arrow keys (Up, Down, Left, Right)
-
-### Links
-
-- Solution URL: [Snake Game]
 
 ## My process
 

@@ -6,7 +6,6 @@ This project covers all the Day 17 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)  
   - [The challenge](#the-challenge)  
-  - [Links](#links)  
 - [Notes](#notes)  
   - [Built with](#built-with)  
   - [What I learned](#what-i-learned)  
@@ -19,9 +18,7 @@ This project covers all the Day 17 topics and is sufficient to demonstrate every
 - Display True/False questions to the user.
 - Keep track of the score and show final results after the quiz ends.
 
-### Links
 
-- Solution URL: [Quiz Game]
 ## Notes
 
 ### Built with

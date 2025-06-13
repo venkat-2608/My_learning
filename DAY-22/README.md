@@ -6,7 +6,6 @@ This project covers all the Day 22 topics and is sufficient to demonstrate every
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -24,9 +23,6 @@ This project covers all the Day 22 topics and is sufficient to demonstrate every
   - Detect when a player misses the ball
   - Keep and update score for both players
 
-### Links
-
-- ✅ **Solution URL**: [Pong Game](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day22)
 
 ## My Process
 

@@ -5,7 +5,6 @@
 
 - [Overview](#overview)
   - [The challenges](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,11 +20,6 @@
 - Project: The States Game
   - Create a US States quiz.
   - Use Turtle module and Pandas to read csv files
-
-### Links
-
-- Solution URL: (./DAY-03/project.py)
-- Solution URL: 
 
 ## My process
 

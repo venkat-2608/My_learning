@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -30,13 +29,6 @@ This project incorporates all key concepts covered in **Day 2** of Angela Yu’s
 - Formatting strings with f-Strings
 
 Together, this project serves as a complete and practical application of Day 2 tutorials and exercises.
-
----
-
-### 🔗 Links
-
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
-- [My Code](./DAY-03/project.py)
 
 ---
 

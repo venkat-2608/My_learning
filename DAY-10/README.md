@@ -35,13 +35,6 @@ This project covers all the Day 10 topics taught in **Angela Yu’s 100 Days of 
 
 ---
 
-### 🔗 Links
-
-- [Solution Code](./day06.py)
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
-
----
-
 ## ⚙️ My Process
 
 ### 🧰 Built With

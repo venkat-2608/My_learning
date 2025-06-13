@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -36,14 +35,6 @@ This project covers all the topics taught in **Day 11** of Angela Yu’s *100 Da
 - Use of recursion and loops for game flow
 
 This is a **capstone project** and is sufficient to demonstrate all concepts from Day 11, including tutorials and exercises.
-
----
-
-### 🔗 Links
-
-- 💻 [Solution Code]
-- 📚 [List Methods](https://developers.google.com/edu/python/lists#list-methods)
-- 📘 [Python `sum()` Function](https://docs.python.org/3/library/functions.html#sum)
 
 ---
 

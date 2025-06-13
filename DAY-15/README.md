@@ -5,8 +5,7 @@ This project covers all the Day 15 topics and is sufficient to demonstrate every
 ## Table of contents
 
 - [Overview](#overview)  
-  - [The challenge](#the-challenge)  
-  - [Links](#links)  
+  - [The challenge](#the-challenge)    
 - [Notes](#notes)  
   - [Built with](#built-with)  
   - [What I learned](#what-i-learned)  
@@ -20,10 +19,6 @@ This project covers all the Day 15 topics and is sufficient to demonstrate every
   - Checks if enough ingredients are available
   - Processes coins and calculates change
   - Updates the machine’s resource report
-
-### Links
-
-- Solution URL: [Coffee Machine]
 
 ## Notes
 

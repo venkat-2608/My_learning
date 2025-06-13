@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Why This Project Matters](#why-this-project-matters)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -32,12 +31,6 @@ The project is sufficient to replicate and demonstrate all Day 4 tutorials and e
 
 ---
 
-### 🔗 Links
-
-- [Original Course](https://www.udemy.com/course/100-days-of-code/)
-- [My Code](./day04.py)
-
----
 
 ## ⚙️ My Process
 
