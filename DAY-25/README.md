@@ -24,8 +24,8 @@
 
 ### Links
 
-- Solution URL: [Squirrel Census](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day25/Squirrel%20Census)
-- Solution URL: [States Game](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day25/States%20Game)
+- Solution URL: (./DAY-03/project.py)
+- Solution URL: 
 
 ## My process
 

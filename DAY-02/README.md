@@ -36,7 +36,7 @@ Together, this project serves as a complete and practical application of Day 2 t
 ### 🔗 Links
 
 - [Original Course](https://www.udemy.com/course/100-days-of-code/)
-- [My Code](./day02.py)
+- [My Code](./DAY-03/project.py)
 
 ---
 
