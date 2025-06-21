@@ -35,4 +35,4 @@ This project demonstrates all key concepts taught up to this point, including wo
 - How to use external APIs and pass parameters
 - API keys and authentication management via environment variables
 - Sending messages and stickers using Telegram bot
-- JSON parsing and slicing data for specific timeframes
+- JSON parsing and slicing data for specific timeframes.
